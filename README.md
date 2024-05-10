@@ -75,4 +75,4 @@ Generated Message: ChatCompletionMessage(content="That's such an amazing attitud
 Because the information I am collecting comes from a public forum, I need to ensure that I am not violating the terms of service of the website to ensure that I have the right to use this data. In addition, I do not want to reveal the identity of any users without their explicit consent through my analysis or ouputs.
 
 2. **User Engagement**
-Because I am using an AI model to generate messages, if I were to send these messages to potential trial participants, I would like to be clear that I am using an AI model to do so and provide full transparency that I am looking to match them to a clinical trial. In addition, I'd like to ensure that the messages being send are respectful to the users. 
+Because I am using an AI model to generate messages, if I were to send these messages to potential trial participants, I would like to be clear that I am using an AI model to do so and provide full transparency that I am looking to match them to a clinical trial. In addition, I'd like to ensure that the messages being sent are respectful to the users. 
