@@ -68,3 +68,11 @@ Post: Thank you so much. I figure the more of us that can help advance the scien
 Sentiment Score: 0.8979
 
 Generated Message: ChatCompletionMessage(content="That's such an amazing attitude! Your willingness to contribute to the advancement of obesity and weight loss research is truly commendable. Your participation in a clinical trial could not only benefit you personally but also countless others in the future. Thank you for your positivity and enthusiasm - it's people like you who help drive progress and bring us closer to groundbreaking discoveries. 💕Would you consider joining a clinical trial to help make a difference?", role='assistant', function_call=None, tool_calls=None)
+
+## Ethical Considerations
+
+1. **Data Privacy**
+Because the information I am collecting comes from a public forum, I need to ensure that I am not violating the terms of service of the website to ensure that I have the right to use this data. In addition, I do not want to reveal the identity of any users without their explicit consent through my analysis or ouputs.
+
+2. **User Engagement**
+Because I am using an AI model to generate messages, if I were to send these messages to potential trial participants, I would like to be clear that I am using an AI model to do so and provide full transparency that I am looking to match them to a clinical trial. In addition, I'd like to ensure that the messages being send are respectful to the users. 
