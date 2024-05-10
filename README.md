@@ -40,4 +40,13 @@ OPENAI_API_KEY = your_api_key_here
 ```bash
 python scraper_mgenerator.py
 ```
-    
+## Output
+Due to OpenAI token restraints, the script outputs the first five user posts, their associated sentiment scores, and their personalized messages to the console. 
+
+## Methodology
+- Scraping: Used Selenium to scrape Reddit posts from specified URLS to capture post content. This content is placed into a JSON file. 
+- Sentiment Analysis: Applied NTLK's VADER to analyze the sentiment of each post.
+- Message Generation: Used OpenAI API to generate personalized mesages based on the sentiment of the posts
+
+## Future Improvements
+With more time and information, I would have liked to better personalize messages. For example, based on what the Reddit post says (identify key words), I would like to include specifc information in the generated message tailored to the individual. This could be things like when or where the next clinical trial is being held.
